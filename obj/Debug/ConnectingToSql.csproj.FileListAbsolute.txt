@@ -1,0 +1,7 @@
+C:\Users\MZ\source\repos\ConnectingToSql\bin\Debug\ConnectingToSql.exe.config
+C:\Users\MZ\source\repos\ConnectingToSql\bin\Debug\ConnectingToSql.exe
+C:\Users\MZ\source\repos\ConnectingToSql\bin\Debug\ConnectingToSql.pdb
+C:\Users\MZ\source\repos\ConnectingToSql\obj\Debug\ConnectingToSql.csprojAssemblyReference.cache
+C:\Users\MZ\source\repos\ConnectingToSql\obj\Debug\ConnectingToSql.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\ConnectingToSql\obj\Debug\ConnectingToSql.exe
+C:\Users\MZ\source\repos\ConnectingToSql\obj\Debug\ConnectingToSql.pdb
